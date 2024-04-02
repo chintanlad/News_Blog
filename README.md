@@ -54,15 +54,6 @@ python manage.py runserver
 
 ```
     
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
 ## Usage
